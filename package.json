@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "build": "rm -rf dist && built src/index.html --no-minfy --public-url ./"
+  },
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  },
+  "name": "ajax-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
